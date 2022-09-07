@@ -3,7 +3,6 @@ from pyrogram import Client
 import logging
 from dotenv import load_dotenv, set_key, unset_key
 from os import getenv
-from kelime_bot import bot
 
 load_dotenv('config.env')
 
