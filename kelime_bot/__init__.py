@@ -43,3 +43,8 @@ oyun = {}  # type: ignore
 
 # rating
 rating = {}  # type: ignore
+
+
+
+if __name__ == "__init__":
+    bot.run()
